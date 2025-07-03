@@ -8,11 +8,11 @@ A browser extension is a small software program that adds features and functiona
 What they do:
 
 
-    Extend functionality:
+- Extend functionality:
     Browser extensions add features that the browser doesn't have by default, such as ad blocking, password management, or translation tools. 
-    Customize the browsing experience:
+- Customize the browsing experience:
     They can change the appearance of web pages, add new buttons or toolbars, or modify how websites behave. 
-    Enhance security and privacy:
+- Enhance security and privacy:
     Some extensions protect users from malicious websites, block trackers, or encrypt data. 
 
 
@@ -32,22 +32,22 @@ How they work:
 
 Some examples of web browser extensions are:
 
-Ad blockers: Block ads on websites, improving page loading times and user experience. 
+- Ad blockers: Block ads on websites, improving page loading times and user experience. 
 
-Password managers: Securely store and manage passwords, eliminating the need to remember them. 
+- Password managers: Securely store and manage passwords, eliminating the need to remember them. 
 
-Translation tools: Translate web pages or text snippets into different languages. 
+- Translation tools: Translate web pages or text snippets into different languages. 
 
-Social media extensions: Enhance social media platforms with features like sharing or custom themes. 
+- Social media extensions: Enhance social media platforms with features like sharing or custom themes. 
 
-Productivity tools: Integrate with calendars, task managers, or note-taking applications. 
+- Productivity tools: Integrate with calendars, task managers, or note-taking applications. 
 
 
 Security considerations:
 
-    Malicious extensions: While most extensions are safe, some can be malicious or contain vulnerabilities. 
+- Malicious extensions: While most extensions are safe, some can be malicious or contain vulnerabilities. 
 
-    Permissions: Be cautious about the permissions an extension requests and only install extensions from reputable sources. 
+- Permissions: Be cautious about the permissions an extension requests and only install extensions from reputable sources. 
     Regular updates: Keep your extensions updated to patch any security vulnerabilities. 
 
 
