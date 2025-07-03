@@ -1,0 +1,75 @@
+This is the 7th task on the cybersecurity by Elevate Labs
+
+In today task I have been assigned to make the report on the web browser extensions
+
+Extensions:
+            Extensions are basically a application software that can be installed on the web browser to enhance it's functionality
+Example of extensions are: An extension to block the ads
+Adding a feature of bookmarks to send the bookmarks as a note to yourself
+Password management this extension can save the username and password of the user from different website and etc
+
+How to check the installed extensions in Firefox in the search box type this
+about:addons
+
+For the report of the web extension I am using the Mozilla Firefox
+
+The most used extension in Mozilla Firefox according to its community forum report is:
+i) uBlock origin: This extension is used to block the ads and other paid content in the browser
+ii) Imagus: This extension can be used to view the image in full screen when hover over the image
+iii) YoutubeDownloader: This extension allows the user to download the youtube video in their preferred quality and content type
+
+This are the some of the most used use case of the extension but it also have some of the darkside of it 
+
+Some extension are used as malware and other spying acitivities for the user
+i) Session manager: This extension was used to manage the sessions of the user but later it was caught in the data theft of the user
+ii) Nano adblocker: This extension was for the adblocker but was spying on the user
+
+How to identify the extension is good or malicious
+
+1. Check Permissions:
+
+    Excessive Permissions:
+    Malicious extensions often request more permissions than necessary for their stated function. For example, an extension for displaying the time shouldn't need access to your browsing history or the ability to modify website content, according to NordVPN.
+    Unrelated Permissions:
+    Pay attention to permissions that seem unrelated to the extension's advertised purpose. 
+
+2. Examine Reviews and Ratings:
+
+    Poor Reviews:
+    Check for complaints about suspicious behavior, unexpected changes after updates, or reports of the extension stealing data. 
+
+Lack of Reviews:
+If an extension has very few or no reviews, it might be a sign that it's new or untrustworthy. Conversely, a high number of positive reviews can also be a red flag if they seem fake or generic. 
+
+3. Research the Developer:
+
+    Developer Information:
+    Look for a well-designed website, a history of reputable extensions, and transparent contact information. If you can't find much about the developer or their other products, it's a red flag. 
+
+Developer Name:
+Make sure the developer's name on the extension matches the name listed on their website or other online presence. 
+
+4. Observe Browser Behavior:
+
+    Sudden Ads:
+    If a previously ad-free browser suddenly starts displaying ads or sponsored content, it could be a sign of a malicious extension.
+    Unfamiliar Changes:
+    Be wary of any unexpected changes to your browser's homepage, default search engine, or other settings. 
+
+5. Other Considerations:
+
+    "Free" Versions of Paid Apps:
+    Be cautious of extensions that are free versions of paid software, as they may be malicious. 
+
+Unusual Size:
+Very large extensions that perform simple tasks could be a sign of malicious code. 
+Test in a Sandbox:
+If you're unsure about an extension, consider testing it in a virtual machine or a separate, isolated environment. 
+Stay Informed:
+Keep up with security alerts and reports about malicious browser extensions. 
+
+In essence, browser extensions are powerful tools that can significantly enhance the browsing experience, 
+but it's crucial to be aware of the potential security risks and to install them from trusted sources.
+
+
+Thank you:)
